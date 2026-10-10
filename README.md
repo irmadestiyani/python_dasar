@@ -18,14 +18,3 @@ tugas latihan python dasar dari modul bpk, 11 bab.
 - proyek/ - module & package (bab 10)
 - nilai.csv - data buat lat11
 
-## cara jalanin
-
-python lat1.py
-
-atau ganti angka sesuai bab yg mau dijalanin.
-
-## kalau mau setup dari awal
-
-python -m venv .venv
-.\.venv\Scripts\Activate.ps1
-pip install -r requirements.txt
