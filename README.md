@@ -1,7 +1,3 @@
-# python dasar
-
-tugas latihan python dasar dari modul bpk, 11 bab.
-
 ## isi file
 
 - lat1.py - pengenalan python
